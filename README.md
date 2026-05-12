@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <img src="img/1.png" width="750"/>
-  <img src="img/2.png" width="750"/>
+  <img src="img/1.png" width="300"/>
+  <img src="img/2.png" width="300"/>
 </p>
 
 
